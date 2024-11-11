@@ -146,9 +146,9 @@ class Man {
     // point(this.rightFoot.x, this.rightFoot.y);
     // point(this.head.x, this.head.y);
 
-    // noStroke();
-    // fill(0);
-    // circle(this.head.x, this.head.y - 25, 50);
+    noStroke();
+    fill(0);
+    circle(this.head.x, this.head.y - 25, 50);
 
     // stroke(255, 0, 0);
     // point(this.controlPoint.x, this.controlPoint.y);
